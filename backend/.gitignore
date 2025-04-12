@@ -1,0 +1,3 @@
+# Node.js-specific ignores
+node_modules/
+.env

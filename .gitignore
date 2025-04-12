@@ -1,0 +1,9 @@
+# Root-level .gitignore
+
+# Node.js
+node_modules/
+.env
+
+# Expo
+.expo/
+.expo-shared/
